@@ -18,6 +18,13 @@ class Machine{
         this.code = code;
         // this.code = code;
     }
+
+	public String start() {
+		return null;
+	}
+
+	public void stop() {
+	}
 }
 
 public class MachineApp{

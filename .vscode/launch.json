@@ -2,6 +2,87 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Exceptions",
+            "request": "launch",
+            "mainClass": "Exceptions",
+            "projectName": "Test_31324a70"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - read",
+            "request": "launch",
+            "mainClass": "read",
+            "projectName": "Test_31324a70"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Test_31324a70"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringArrays",
+            "request": "launch",
+            "mainClass": "StringArrays",
+            "projectName": "Test_31324a70"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringFormatting",
+            "request": "launch",
+            "mainClass": "StringFormatting",
+            "projectName": "Test_31324a70"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Static",
+            "request": "launch",
+            "mainClass": "Static",
+            "projectName": "Test_31324a70"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultidimensionalArray",
+            "request": "launch",
+            "mainClass": "MultidimensionalArray",
+            "projectName": "Test_31324a70"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyClass",
+            "request": "launch",
+            "mainClass": "MyClass",
+            "projectName": "Test_31324a70"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClassApp",
+            "request": "launch",
+            "mainClass": "ClassApp",
+            "projectName": "Test_31324a70"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Robots",
+            "request": "launch",
+            "mainClass": "Robots"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Arrays",
+            "request": "launch",
+            "mainClass": "Arrays"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MachineApp",
+            "request": "launch",
+            "mainClass": "MachineApp"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Stringformatting",
             "request": "launch",
             "mainClass": "Stringformatting"

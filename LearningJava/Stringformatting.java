@@ -17,7 +17,7 @@ class Frog{
     }
 }
 
-public class Stringformatting{
+public class StringFormatting{
     public static void main(String[] args){
         Frog frog1 = new Frog(7, "Bob");
 
