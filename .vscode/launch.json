@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FileReaderApp",
+            "request": "launch",
+            "mainClass": "FileReaderApp",
+            "projectName": "Test_31324a70"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RuntimeException",
+            "request": "launch",
+            "mainClass": "RuntimeException",
+            "projectName": "Test_31324a70"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Exceptions",
             "request": "launch",
             "mainClass": "Exceptions",

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - RuntimeException",
+            "request": "launch",
+            "mainClass": "RuntimeException",
+            "projectName": "LearningJava_3b6483bf"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultipleExceptionsApp",
+            "request": "launch",
+            "mainClass": "MultipleExceptionsApp",
+            "projectName": "LearningJava_3b6483bf"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - StringBuilderFormatting",
             "request": "launch",
             "mainClass": "StringBuilderFormatting",
