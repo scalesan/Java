@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FileReaderApp",
+            "request": "launch",
+            "mainClass": "FileReaderApp",
+            "projectName": "LearningJava_3b6483bf"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RuntimeException",
             "request": "launch",
             "mainClass": "RuntimeException",
